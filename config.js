@@ -14,7 +14,8 @@ const config = {
     Jacob: "1234",
     fortnite: "fortnite1234", 
     meking: "1234",
-    fortnite: "1234",
+
+    
     
   },
 };
